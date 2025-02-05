@@ -29,14 +29,14 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-##  Tecnologias Usadas
+## 👨‍💻 Tecnologias Usadas
 - Python 3 v3.12
 - DeepFace
 - Numpy
 - Open CV
 
 -----------------------------------------------------------
-## Instalação e Setup:
+## ⚙  Instalação e Setup:
 
 Clonar o projeto:
 
@@ -61,3 +61,12 @@ No terminal digite:
 
 ```bash
   python3 main.py
+```
+
+-----------------------------------------------------------
+## 🛠 Para testar suas próprias imagens:
+### `1` - Coloque na pasta "know_faces" o rosto de cada pessoa que você quer testar.
+### `2` - Na raiz do programa colo uma foto em grupo ou casal para que as pessoas testadas sejam reconhecidas.
+### `3` - Execute o programa.
+
+
