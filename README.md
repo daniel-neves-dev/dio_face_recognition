@@ -1,4 +1,11 @@
+<h1>Detecção Facial</h1>
 
+<h2>Desafio 5</h2>
+
+<h3>Objetivo:</h3>
+<p>Este projeto foi desenvolvido como parte do Bootcamp BairesDev - Machine Learning Practitioner, oferecido pela Digital Innovation One (DIO). 
+  O objetivo deste desafio é gerar imagens de detecção facial.</p>
+  
 <table>
   <tr>
     <td ><img src="https://github.com/user-attachments/assets/cd4c35cd-8847-4fcf-b3fd-a300bdad8b37"></td>
@@ -21,3 +28,36 @@
 </table>
 
 -------------------------------------------------------------------------------------------------------------
+
+##  Tecnologias Usadas
+- Python 3 v3.12
+- DeepFace
+- Numpy
+- Open CV
+
+-----------------------------------------------------------
+## Instalação e Setup:
+
+Clonar o projeto:
+
+```bash
+  git clone https://github.com/daniel-neves-dev/rede_yolo.git
+```
+
+Abrir a pasta do projeto:
+
+```bash
+  cd rede_yolo
+```
+
+No terminal digite:
+
+```bash
+  pip install numpy
+  pip install opencv  
+```
+
+No terminal digite:
+
+```bash
+  python3 main.py
