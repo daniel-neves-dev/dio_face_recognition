@@ -1,4 +1,4 @@
-<h1>Detecção Facial</h1>
+<h1>Reconhecimento Facial</h1>
 
 <h2>Desafio 5</h2>
 
