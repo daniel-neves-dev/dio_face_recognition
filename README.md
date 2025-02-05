@@ -4,7 +4,7 @@
 
 <h3>Objetivo:</h3>
 <p>Este projeto foi desenvolvido como parte do Bootcamp BairesDev - Machine Learning Practitioner, oferecido pela Digital Innovation One (DIO). 
-  O objetivo deste desafio é gerar imagens de detecção facial.</p>
+  O objetivo deste desafio é gerar imagens de reconhecimento facial.</p>
   
 <table>
   <tr>
