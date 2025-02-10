@@ -54,7 +54,8 @@ No terminal digite:
 
 ```bash
   pip install numpy
-  pip install opencv  
+  pip install opencv
+  pip install deepface
 ```
 
 No terminal digite:
